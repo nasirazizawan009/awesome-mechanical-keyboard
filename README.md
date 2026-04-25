@@ -157,6 +157,7 @@
 - [Q2K](https://github.com/2hwk/Q2K) - A python based utility for parsing QMK Firmware keymaps to various outputs.
 - [QMK Configurator](https://config.qmk.fm/) - An open source configurator for QMK Firmware.
 - [kbd-prettier](https://github.com/blakedietz/kbd-prettier) - Automatically format your keyboard layout.
+- [KeyboardTester.click](https://keyboardtester.click) - Free browser-based diagnostic suite — chatter detector, NKRO test, USB polling rate Hz estimator, switch sound classifier, key repeat rate. Open source, no install.
 
 ## Firmware
 - [BlueMicro_BLE](https://github.com/jpconstantineau/BlueMicro_BLE) - A Bluetooth Firmware for the NRF52832.
